@@ -1,0 +1,11 @@
+# KDevelop Custom Project File List
+Makefile
+ser_valider_tc.c
+ser_path.c
+ser_path.h
+ser_path_def.h
+ser_path_djk.c
+ser_path_tc.c
+ser_path_test.c
+common.h
+common.c

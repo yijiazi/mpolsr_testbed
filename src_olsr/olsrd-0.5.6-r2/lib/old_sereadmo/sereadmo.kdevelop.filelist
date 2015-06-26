@@ -1,0 +1,13 @@
+# KDevelop Custom Project File List
+Makefile
+src
+src/olsrd_plugin.c
+src/ser_data.c
+src/ser_data.h
+src/ser_tc.c
+src/ser_tc.h
+src/ser_print.c
+src/ser_device.c
+src/ser_device.h
+src/ser_print.h
+src/ser_global.h

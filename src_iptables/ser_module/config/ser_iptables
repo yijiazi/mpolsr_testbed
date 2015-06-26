@@ -1,0 +1,17 @@
+# configuration du module netfilter sereadmo
+
+
+options ser_iptables act_hook=1
+options ser_iptables act_device=1
+options ser_iptables act_recovery=0
+
+options ser_iptables dbg_hook=3
+options ser_iptables dbg_device=3
+options ser_iptables dbg_module=3
+options ser_iptables dbg_djk=3
+
+options ser_iptables nb_path=3
+options ser_iptables coef_fe=2
+options ser_iptables coef_fp=2
+options ser_iptables udp_port=104
+
